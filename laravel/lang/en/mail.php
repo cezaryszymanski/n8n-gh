@@ -5,9 +5,8 @@
  * Release: Working copy
  * Locale: en, English
  * Tagged: mail
- * Status: Translated
  * Exported by: patryk
- * Exported at: Fri, 27 Oct 2023 13:56:48 +0200 
+ * Exported at: Wed, 17 Jan 2024 14:23:39 +0100 
  */
 return array (
   'account-blocked' => 
