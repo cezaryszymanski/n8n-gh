@@ -5,9 +5,8 @@
  * Release: Working copy
  * Locale: en, English
  * Tagged: auth
- * Status: Translated
  * Exported by: patryk
- * Exported at: Fri, 27 Oct 2023 13:54:58 +0200 
+ * Exported at: Wed, 17 Jan 2024 14:23:32 +0100 
  */
 return array (
   'failed' => 'These credentials do not match our records.',
