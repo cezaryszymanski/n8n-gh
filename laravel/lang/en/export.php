@@ -6,7 +6,7 @@
  * Locale: en, English
  * Tagged: export
  * Exported by: patryk
- * Exported at: Wed, 17 Jan 2024 08:50:03 +0100 
+ * Exported at: Wed, 17 Jan 2024 09:15:18 +0100 
  */
 return array (
   'pdf_export_in_progress' => 'PDF export in progress...',
