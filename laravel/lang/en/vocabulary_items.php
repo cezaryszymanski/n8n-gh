@@ -16,21 +16,4 @@ return array (
     'sculpture' => 'Sculpture',
     'video' => 'Video',
   ),
-  'work-status' => 
-  array (
-    'available' => 'Available',
-    'reserved' => 'Reserved',
-    'sold' => 'Sold',
-  ),
-  'work-location' => 
-  array (
-    'gallery' => 'Gallery',
-    'storage' => 'Storage',
-    'studio' => 'Studio',
-  ),
-  'work-technique' => 
-  array (
-    'oil-on-canvas' => 'Oil on canvas',
-    'acrylic-on-canvas' => 'Acrylic on canvas',
-  ),
 );
