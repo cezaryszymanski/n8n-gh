@@ -3,18 +3,18 @@
  * Loco php export: Symfony (PHP array)
  * Project: AB.Next
  * Release: Working copy
- * Locale: de, German
+ * Locale: en, English
  * Tagged: export
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 12:29:29 +0100 
+ * Exported at: Thu, 18 Jan 2024 12:21:11 +0100 
  */
 return array (
-  'pdf_export_in_progress' => 'PDF wird exportiert...',
-  'pdf_export_success' => 'PDF wurde erfolgreich exportiert',
-  'pdf_export_error' => 'Fehler beim PDF Export',
-  'pdf_export_button' => 'PDF erstellen',
-  'pdf_export_message' => 'Sie können den Text in der unteren Vorschau noch bearbeiten, Worte hinzufügen oder löschen. Wenn Sie fertig sind, klicken Sie auf den Button und das PDF wird erzeugt.',
-  'pdf_export_download_file' => 'PDF Datei öffnen',
+  'pdf_export_in_progress' => 'PDF export in progress...',
+  'pdf_export_success' => 'PDF export succeeded.',
+  'pdf_export_error' => 'There was a problem with export. Please, try again.',
+  'pdf_export_button' => 'Export to PDF',
+  'pdf_export_message' => 'You can edit text in the preview below by adding, overwriting, formatting, or deleting text elements. Once you\'re done, hit the button below and the PDF will be created.',
+  'pdf_export_download_file' => 'Open the PDF file',
   'artland_work_csv_export_title' => 'Title',
   'artland_work_csv_export_description' => 'Description',
   'artland_work_csv_export_year' => 'Year',
