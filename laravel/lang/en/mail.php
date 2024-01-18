@@ -3,85 +3,85 @@
  * Loco php export: Symfony (PHP array)
  * Project: AB.Next
  * Release: Working copy
- * Locale: de, German
+ * Locale: en, English
  * Tagged: mail
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 12:29:30 +0100 
+ * Exported at: Thu, 18 Jan 2024 12:21:12 +0100 
  */
 return array (
   'account-blocked' => 
   array (
-    'any-questions' => 'Wir würden uns freuen, wenn Sie uns treu bleiben, daher senden Sie uns im Falle von Fragen oder Anregungen gern eine E-Mail an :emailSupport, wir freuen uns, von Ihnen zu hören!',
-    'artbutler-team' => 'Das ARTBUTLER Team',
-    'hello' => 'Hallo  :firstName',
-    'renew-subscription' => 'Wenn Sie nur vergessen haben, Ihr NEXT Konto zu verlängern, können Sie sich einfach wie gewohnt einloggen und es anschliessend verlängern. Wir speichern deswegen Ihre Daten vertragsgemäß noch für 30 Tage, danach werden sie gelöscht.',
-    'subject' => 'ARTBUTLER NEXT Konto abgelaufen',
-    'subscription-expired' => 'leider ist heute ARTBUTLER NEXT Konto für [email - account name] abgelaufen.',
+    'any-questions' => 'We\'d be sad to see you go, so if you have any questions or need any help, just go ahead and send us an email to :emailSupport and we\'ll be happy to get in touch.',
+    'artbutler-team' => 'The ARTBUTLER team',
+    'hello' => 'Dear :firstName',
+    'renew-subscription' => 'If you\'ve just forgotten to renew your subscription, you can do so now by logging in and reactivating your account. We will keep your data for up to 30 days, after which it will be deleted.',
+    'subject' => 'ARTBUTLER NEXT account expired.',
+    'subscription-expired' => 'Unfortunately, your ARTBUTLER NEXT subscription has now expired.',
   ),
   'account-created' => 
   array (
-    'any-questions' => 'Bei Fragen stehen wir Ihnen gern unter :emailSupport zur Verfügung.',
-    'artbutler-team' => 'Das ARTBUTLER Team',
-    'hello' => 'Hallo :firstName',
-    'subject' => 'Willkommen in ARTBUTLER NEXT!',
-    'thanks-for-signing' => 'vielen Dank für die Anmeldung zu Ihrer kostenlosen Testphase, Ihr ARTBUTLER NEXT Konto wurde erstellt.',
-    'thanks-for-using' => 'Mit herzlichen Grüssen',
-    'we-are-exited' => 'Wir freuen uns, Sie an Bord zu haben!',
-    'you-can-start' => 'Sie können sofort mit der Nutzung loslegen, klicken Sie dazu einfach auf untenstehenden Link.',
+    'any-questions' => 'If you have any questions or need any help, just go ahead and contact us via :emailSupport and we\'ll be happy to answer them.',
+    'artbutler-team' => 'The ARTBUTLER Team',
+    'hello' => 'Dear :firstName',
+    'subject' => 'Welcome to ARTBUTLER NEXT!',
+    'thanks-for-signing' => 'Thanks for signing up to your free trial. Your ARTBUTLER NEXT account was created.',
+    'thanks-for-using' => 'Thanks for using ARTBUTLER NEXT!',
+    'we-are-exited' => 'We\'re excited to have you on board!',
+    'you-can-start' => 'You can start using NEXT immediately by clicking on the link below.',
   ),
-  'favoritesInfo' => 'Die nachfolgenden Favoriten wurden von :Name (:email) um :time',
-  'favoritesInfoFrom' => 'aus :showroomname Showroom.',
-  'inquiryInfo' => 'hat die folgende Anfrage gesendet am',
+  'favoritesInfo' => 'The following favorites were selected by :Name (:email) on :time',
+  'favoritesInfoFrom' => 'from :showroomname showroom.',
+  'inquiryInfo' => 'sent following inquiry on',
   'intro' => 
   array (
-    'subject' => 'Willkommen bei ARTBUTLER NEXT - Intro :current von :all',
+    'subject' => 'Welcome to ARTBUTLER NEXT - Intro :current of :all',
   ),
-  'invitation-subject' => ':inviter-name hat sie zu Artbutler NEXT eingeladen',
+  'invitation-subject' => ':inviter-name invites you to Artbutler NEXT',
   'invitation' => 
   array (
-    'artbutler-team' => 'Das ARTBUTLER Team',
-    'automatically-generated-password' => 'Automatisch generiertes Passwort für Ihr Konto:',
-    'confirm-invitation' => 'Bestätigen Sie die Einladung',
+    'artbutler-team' => 'The ARTBUTLER team',
+    'automatically-generated-password' => 'Automatically generated password for your account:',
+    'confirm-invitation' => 'Confirm invitation',
     'email' => 'E-mail:',
-    'has-been-invited' => 'Sie wurden von :inviterName eingeladen,  :accountName in Artbutler NEXT beizutreten.',
-    'hello' => 'Hallo :firstName :lastName,',
-    'information-provided' => 'Dabei wurden die folgenden Angaben gemacht:',
+    'has-been-invited' => ' You have been invited to join :accountName at Artbutler NEXT by :inviterName',
+    'hello' => 'Hi :firstName :lastName,',
+    'information-provided' => 'The following details have been provided:',
     'name' => 'Name:',
-    'simple-click-link' => 'Klicken Sie einfach auf den folgenden Link, um die Einladung anzunehmen und Ihre Konto-Einrichtung abzuschliessen.',
-    'subject' => ':inviter-name hat Sie zu Artbutler NEXT eingeladen',
-    'welcome' => 'Willkommen an Bord!',
+    'simple-click-link' => 'Click the link below to confirm the invitation and set up your account.',
+    'subject' => ':inviter-name invites you to Artbutler NEXT',
+    'welcome' => 'Welcome on board!',
   ),
-  'messageInfo' => 'hat folgende Nachricht hinzugefügt:',
+  'messageInfo' => 'added the following message:',
   'shopify-connection-lost' => 
   array (
-    'any-questions' => 'Wenn das nicht der Fall ist oder Sie weitere Fragen haben, kontaktieren Sie uns bitte unter :emailSupport, wir freuen uns darauf, Ihnen zu helfen.',
-    'artbutler-team' => 'Ihr ARTBUTLER-Team',
-    'check-credentials' => 'Bitte stellen Sie sicher, dass die Zugangsdaten für die Integration (Shopify ID, Secret key) in Ihren Shopify Einstellungen und  im Shopify Konto übereinstimmen.',
-    'connection-lost' => 'Die Tests für eine Verbindung zwischen NEXT und Ihrem Shopify Account sind fehlgeschlagen. Ihre Werkstatus in NEXT könnten deswegen nicht mehr aktuell sein.',
-    'hello' => 'Hallo :firstName',
-    'subject' => 'Die Verbindung zu Shopify besteht nicht mehr',
+    'any-questions' => 'If this is not the case, or if you have any questions, just go ahead and contact us via :emailSupport and we\'ll be happy to help.',
+    'artbutler-team' => 'The ARTBUTLER team',
+    'check-credentials' => 'Please make sure that the credentials used for this integration (Shopify ID, Secret key) in your Shopify settings and in your Shopify store match.',
+    'connection-lost' => 'The recent tests for the connection between your ARTBUTLER NEXT account and your Shopify store have failed, which means that your Work statuses might not have been updated.',
+    'hello' => 'Dear :firstName',
+    'subject' => 'Your connection with shopify has been lost',
   ),
-  'showroom-favorites-subject' => 'Favoriten von :name aus :showroom',
-  'showroom-inquiry-subject' => 'Werkanfrage von :name für :work',
+  'showroom-favorites-subject' => 'Favorites of :name from :showroom',
+  'showroom-inquiry-subject' => 'Work inquiry by :name for :work',
   'trial-expired' => 
   array (
-    'subject' => 'Ihr NEXT-Konto ist abgelaufen: Verlängern Sie jetzt Ihr Abonnement!',
+    'subject' => 'Your NEXT Account has expired: Renew your subscription now!',
   ),
   'trial-will-expire' => 
   array (
-    'artbutler-team' => 'Ihr ARTBUTLER Team',
-    'button' => 'Abonnement starten',
-    'content' => 'Ihre ARTBUTLER NEXT Testphase läuft am :trialdate aus.',
-    'hello' => 'Hallo,',
-    'subject' => 'Ihr ARTBUTLER NEXT Probeabo endet bald: Wählen Sie jetzt Ihr Abonnement!',
+    'artbutler-team' => 'The ARTBUTLER team',
+    'button' => 'Buy subscription',
+    'content' => 'Your ARTBUTLER NEXT account will expire on :trialdate',
+    'hello' => 'Hello!',
+    'subject' => 'Your ARTBUTLER NEXT trial ends soon: Choose your subscription now!',
   ),
   'user-blocked' => 
   array (
-    'any-questions' => 'Wir sind traurig, dass Sie uns verlassen möchten, wenn Sie also noch Fragen oder Anregungen für uns haben, freuen wir uns, von Ihnen unter :emailSupport zu hören!',
-    'artbutler-team' => 'Das ARTBUTLER Team',
-    'hello' => 'Hallo :firstName',
+    'any-questions' => 'We\'d be sad to see you go, so if you have any questions or need any help, just go ahead and send us an email to :emailSupport and we\'ll be happy to get in touch.',
+    'artbutler-team' => 'The ARTBUTLER team',
+    'hello' => 'Dear :firstName',
     'subject' => 'ARTBUTLER NEXT user blocked.',
-    'user-blocked' => 'Ihr Konto wurde gesperrt',
+    'user-blocked' => 'You have been blocked',
   ),
-  'wokrsLabel' => 'Werke:',
+  'wokrsLabel' => 'Works:',
 );
