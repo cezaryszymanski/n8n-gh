@@ -5,16 +5,16 @@
  * Release: Working copy
  * Locale: de, German
  * Tagged: vocabulary_items
- * Status: Translated
  * Exported by: patryk
- * Exported at: Fri, 27 Oct 2023 14:02:48 +0200 
+ * Exported at: Thu, 18 Jan 2024 12:29:31 +0100 
  */
 return array (
-  'work-location' => 
+  'work-type' => 
   array (
-    'gallery' => 'Galerie',
-    'storage' => 'Lager',
-    'studio' => 'Atelier',
+    'drawing' => 'Zeichnung',
+    'painting' => 'Gemälde',
+    'sculpture' => 'Skulptur',
+    'video' => 'Video',
   ),
   'work-status' => 
   array (
@@ -22,16 +22,15 @@ return array (
     'reserved' => 'Reserviert',
     'sold' => 'Verkauft',
   ),
+  'work-location' => 
+  array (
+    'gallery' => 'Galerie',
+    'storage' => 'Lager',
+    'studio' => 'Atelier',
+  ),
   'work-technique' => 
   array (
-    'acrylic-on-canvas' => 'Acryl auf Leinwand',
     'oil-on-canvas' => 'Öl auf Leinwand',
-  ),
-  'work-type' => 
-  array (
-    'drawing' => 'Zeichnung',
-    'painting' => 'Gemälde',
-    'sculpture' => 'Skulptur',
-    'video' => 'Video',
+    'acrylic-on-canvas' => 'Acryl auf Leinwand',
   ),
 );
