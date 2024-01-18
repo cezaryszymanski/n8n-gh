@@ -6,7 +6,7 @@
  * Locale: en, English
  * Tagged: filter
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 11:09:04 +0100 
+ * Exported at: Thu, 18 Jan 2024 12:21:12 +0100 
  */
 return array (
   'inventory_id' => 'inventory id',
