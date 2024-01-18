@@ -6,7 +6,7 @@
  * Locale: en, English
  * Tagged: auth
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 10:56:07 +0100 
+ * Exported at: Thu, 18 Jan 2024 12:21:11 +0100 
  */
 return array (
   'failed' => 'These credentials do not match our records.',
