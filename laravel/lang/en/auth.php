@@ -3,13 +3,13 @@
  * Loco php export: Symfony (PHP array)
  * Project: AB.Next
  * Release: Working copy
- * Locale: de, German
+ * Locale: en, English
  * Tagged: auth
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 12:29:29 +0100 
+ * Exported at: Thu, 18 Jan 2024 12:21:11 +0100 
  */
 return array (
-  'failed' => 'Diese Zugangsdaten scheinen fehlerhaft.',
-  'password' => 'Das Passwort ist falsch.',
-  'throttle' => 'Zu viele Loginversuche, bitte versuchen Sie es in  :seconds Sekunden noch einmal.',
+  'failed' => 'These credentials do not match our records.',
+  'password' => 'The password is incorrect.',
+  'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 );
