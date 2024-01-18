@@ -3,18 +3,18 @@
  * Loco php export: Symfony (PHP array)
  * Project: AB.Next
  * Release: Working copy
- * Locale: de, German
+ * Locale: en, English
  * Tagged: import
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 12:29:30 +0100 
+ * Exported at: Thu, 18 Jan 2024 12:21:12 +0100 
  */
 return array (
-  'failed-to-authorize' => 'Wir können diese Zugangsdaten leider nicht finden.',
-  'invalid-request' => 'Ungültige Daten',
-  'see-status' => 'Aktuellen Importstatus anzeigen',
-  'success' => 'Erfolg',
-  'unable-to-save-zip' => 'Zip-Datei konnte nicht gespeichert werden',
-  'csv-file-not-found-in-zip' => 'CSV Datei nicht gefunden',
-  'failed-to-process-data' => 'Verarbeitung der Daten gescheitert',
-  'invalid-header-value-conjunction' => 'oder',
+  'failed-to-authorize' => 'These credentials do not match our records.',
+  'invalid-request' => 'Given data is invalid',
+  'see-status' => 'See current import status',
+  'success' => 'Success',
+  'unable-to-save-zip' => 'Unable to save ZIP file',
+  'csv-file-not-found-in-zip' => 'CSV file not found',
+  'failed-to-process-data' => 'Failed to process data',
+  'invalid-header-value-conjunction' => 'or',
 );
