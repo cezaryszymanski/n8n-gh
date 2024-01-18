@@ -4,14 +4,12 @@
  * Project: AB.Next
  * Release: Working copy
  * Locale: en, English
- * Tagged: errors
+ * Tagged: auth
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 10:53:58 +0100 
+ * Exported at: Wed, 17 Jan 2024 14:23:32 +0100 
  */
 return array (
-  '404-message' => 'This page is not available.',
-  '404-title' => 'Not available',
-  'contact-administrator' => 'Contact your administrator as this account’s user number limit has been reached.',
-  'user-invitation-general-error' => 'There was a problem with your invitation. Please contact the person who invited you to join Artbutler NEXT.',
-  'user-invitation-expired-error' => 'Your invitation has expired. Please contact the person who invited you to join Artbutler NEXT and ask them to resend the invitation.',
+  'failed' => 'These credentials do not match our records.',
+  'password' => 'The password is incorrect.',
+  'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 );
