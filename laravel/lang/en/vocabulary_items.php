@@ -3,34 +3,34 @@
  * Loco php export: Symfony (PHP array)
  * Project: AB.Next
  * Release: Working copy
- * Locale: de, German
+ * Locale: en, English
  * Tagged: vocabulary_items
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 12:29:31 +0100 
+ * Exported at: Thu, 18 Jan 2024 12:21:13 +0100 
  */
 return array (
   'work-type' => 
   array (
-    'drawing' => 'Zeichnung',
-    'painting' => 'Gemälde',
-    'sculpture' => 'Skulptur',
+    'drawing' => 'Drawing',
+    'painting' => 'Painting',
+    'sculpture' => 'Sculpture',
     'video' => 'Video',
   ),
   'work-status' => 
   array (
-    'available' => 'Verfügbar',
-    'reserved' => 'Reserviert',
-    'sold' => 'Verkauft',
+    'available' => 'Available',
+    'reserved' => 'Reserved',
+    'sold' => 'Sold',
   ),
   'work-location' => 
   array (
-    'gallery' => 'Galerie',
-    'storage' => 'Lager',
-    'studio' => 'Atelier',
+    'gallery' => 'Gallery',
+    'storage' => 'Storage',
+    'studio' => 'Studio',
   ),
   'work-technique' => 
   array (
-    'oil-on-canvas' => 'Öl auf Leinwand',
-    'acrylic-on-canvas' => 'Acryl auf Leinwand',
+    'oil-on-canvas' => 'Oil on canvas',
+    'acrylic-on-canvas' => 'Acrylic on canvas',
   ),
 );
