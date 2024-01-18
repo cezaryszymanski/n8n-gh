@@ -4,34 +4,12 @@
  * Project: AB.Next
  * Release: Working copy
  * Locale: en, English
- * Tagged: vocabulary_items
- * Status: Translated
+ * Tagged: auth
  * Exported by: patryk
- * Exported at: Fri, 27 Oct 2023 13:57:08 +0200 
+ * Exported at: Wed, 17 Jan 2024 14:23:32 +0100 
  */
 return array (
-  'work-location' => 
-  array (
-    'gallery' => 'Gallery',
-    'storage' => 'Storage',
-    'studio' => 'Studio',
-  ),
-  'work-status' => 
-  array (
-    'available' => 'Available',
-    'reserved' => 'Reserved',
-    'sold' => 'Sold',
-  ),
-  'work-technique' => 
-  array (
-    'acrylic-on-canvas' => 'Acrylic on canvas',
-    'oil-on-canvas' => 'Oil on canvas',
-  ),
-  'work-type' => 
-  array (
-    'drawing' => 'Drawing',
-    'painting' => 'Painting',
-    'sculpture' => 'Sculpture',
-    'video' => 'Video',
-  ),
+  'failed' => 'These credentials do not match our records.',
+  'password' => 'The password is incorrect.',
+  'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 );
