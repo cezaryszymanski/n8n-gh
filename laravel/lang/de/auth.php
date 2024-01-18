@@ -9,7 +9,7 @@
  * Exported at: Thu, 18 Jan 2024 12:29:29 +0100 
  */
 return array (
-  'failed' => 'Diese Zugangsdaten scheinen fehlerhaft.',
+  'failed' => 'TEST',
   'password' => 'Das Passwort ist falsch.',
   'throttle' => 'Zu viele Loginversuche, bitte versuchen Sie es in  :seconds Sekunden noch einmal.',
 );

@@ -9,7 +9,7 @@
  * Exported at: Thu, 18 Jan 2024 12:21:11 +0100 
  */
 return array (
-  'failed' => 'These credentials do not match our records.',
+  'failed' => 'TEST',
   'password' => 'The password is incorrect.',
   'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 );
