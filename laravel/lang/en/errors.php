@@ -6,7 +6,7 @@
  * Locale: en, English
  * Tagged: errors
  * Exported by: patryk
- * Exported at: Wed, 17 Jan 2024 14:23:33 +0100 
+ * Exported at: Thu, 18 Jan 2024 10:53:58 +0100 
  */
 return array (
   '404-message' => 'This page is not available.',
