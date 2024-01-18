@@ -5,9 +5,8 @@
  * Release: Working copy
  * Locale: de, German
  * Tagged: auth
- * Status: Translated
  * Exported by: patryk
- * Exported at: Fri, 27 Oct 2023 14:00:38 +0200 
+ * Exported at: Thu, 18 Jan 2024 12:29:29 +0100 
  */
 return array (
   'failed' => 'Diese Zugangsdaten scheinen fehlerhaft.',
