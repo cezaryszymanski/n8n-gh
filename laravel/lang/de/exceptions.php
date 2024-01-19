@@ -6,7 +6,7 @@
  * Locale: de, German
  * Tagged: exceptions
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 12:32:10 +0100 
+ * Exported at: Fri, 19 Jan 2024 08:29:17 +0100 
  */
 return array (
   'cannot-retrieve-works-to-delete' => 'Kann zu löschende Werke nicht abrufen',
