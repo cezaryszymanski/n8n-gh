@@ -6,7 +6,7 @@
  * Locale: de, German
  * Tagged: auth
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 12:29:29 +0100 
+ * Exported at: Fri, 19 Jan 2024 08:29:16 +0100 
  */
 return array (
   'failed' => 'Diese Zugangsdaten scheinen fehlerhaft.',
