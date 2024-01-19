@@ -6,7 +6,7 @@
  * Locale: de, German
  * Tagged: import
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 12:29:30 +0100 
+ * Exported at: Fri, 19 Jan 2024 08:29:17 +0100 
  */
 return array (
   'failed-to-authorize' => 'Wir können diese Zugangsdaten leider nicht finden.',
