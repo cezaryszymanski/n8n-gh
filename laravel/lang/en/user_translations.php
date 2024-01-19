@@ -6,7 +6,7 @@
  * Locale: en, English
  * Tagged: user_translations
  * Exported by: patryk
- * Exported at: Thu, 18 Jan 2024 12:21:12 +0100 
+ * Exported at: Fri, 19 Jan 2024 08:29:16 +0100 
  */
 return array (
   'vocabulary_items' => 
