@@ -6,7 +6,7 @@
  * Locale: de, German
  * Tagged: validation
  * Exported by: patryk
- * Exported at: Fri, 19 Jan 2024 08:29:18 +0100 
+ * Exported at: Thu, 25 Jan 2024 11:43:36 +0100 
  */
 return array (
   'accepted' => 'Diese Wert muss bestätigt werden.',
