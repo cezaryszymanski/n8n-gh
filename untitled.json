@@ -1,0 +1,11 @@
+{
+  "artists": {
+  "help": "Start typing and select an Artist",
+  "no_results": "There is no artist: {search}",
+  "type_to_search": "Type to search artists...",
+  "label": "Artists",
+  "link": "Go to artists",
+  "placeholder": "",
+  "create": "Create new artist"
+  }
+}
