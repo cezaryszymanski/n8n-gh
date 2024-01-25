@@ -1,0 +1,12 @@
+{
+  "category": {
+    "CV": "CV",
+    "IMAGE_COVER": "Cover Image",
+    "IMAGE_INSTALATION": "Installation Image",
+    "INTERNAL": "Internal",
+    "PUBLISHED": "Published",
+    "AR_URL": "With AR link",
+    "IMAGE_COVER_2": "Cover Image 2",
+    "IMAGE_COVER_3": "Cover Image 3"
+  }
+}
