@@ -2061,7 +2061,7 @@
       "result_message": "{importedWorksCount} works were imported, {overwrittenWorksCount} were overwritten, {addedWorksCount} were added as new. ",
       "result_link": "See {resourceName}",
       "imported_record": "The record: <b>{firstName} {lastName}</b> with id <b>{id}</b> causes a conflict with:",
-      "conflicted_record": "{firstName} {lastName} with id {id}",
+      "conflicted_record": "{firstName} {lastName} with id {id}. Please doublecheck the spelling of the names and make sure they are <b>the same</b> in both NEXT as well as your import.",
       "headline": "Recent updates",
       "button_refresh": "Refresh",
       "columns": {
