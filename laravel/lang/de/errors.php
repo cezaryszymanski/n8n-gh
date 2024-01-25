@@ -6,7 +6,7 @@
  * Locale: de, German
  * Tagged: errors
  * Exported by: patryk
- * Exported at: Fri, 19 Jan 2024 08:29:17 +0100 
+ * Exported at: Thu, 25 Jan 2024 11:43:34 +0100 
  */
 return array (
   '404-message' => 'Diese Seite ist nicht verfügbar',
